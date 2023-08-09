@@ -1,0 +1,18 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/polycythaemia---primary.py
+inputModule3:
+  class: File
+  path: python/secondary-polycythaemia---primary.py
+inputModule4:
+  class: File
+  path: python/cyanotic-secondary-polycythaemia---primary.py
+inputModule5:
+  class: File
+  path: python/secondary-polycythaemia---secondary.py
+inputModule6:
+  class: File
+  path: python/output-cases.py
